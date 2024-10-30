@@ -14,7 +14,7 @@
 
 ### 🔭 I’m working on
 
-- Maintaining ([SkyScraper](https://skyscraper-api.com/)
+- Maintaining [SkyScraper](https://skyscraper-api.com/)
 
 ### 🌱 I’m learning
 
