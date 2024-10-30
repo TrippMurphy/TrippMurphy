@@ -2,7 +2,7 @@
 
 **I love working with**
 
-<div display="flex">
+<div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/React-gray?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
